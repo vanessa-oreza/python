@@ -22,5 +22,6 @@ Este repositorio contiene el desarrollo del entrenamiento **"Técnicas Avanzadas
 
 - Python
 - Pandas
+- Numpy
 - Statsmodel
-- Sklearn
+- Sklearn (train_test_split, LinearRegression)
