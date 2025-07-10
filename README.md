@@ -1,36 +1,27 @@
-# 📓 Mi Cuaderno de Aprendizaje en Python
+# 📓 Regresion Lineal: Clasificación de datos con Machine Learning
 
-¡Hola! 👋 Este es un cuaderno de Google Colab que estoy utilizando para aprender y practicar Python como parte de mi formación como Analista de Datos Jr. 🚀 en Oracle Nexxt Generation G8.
+Este repositorio contiene el desarrollo del entrenamiento **"Aprendiendo a clasificar datos con Machine Learning"** del curso de **Data Science** impartido por **Alura Latam**.
 
-## 🧠 ¿Qué encontrarás aquí?
+## 🧠 Objetivo del curso
 
-Este cuaderno incluye:
+- Realizar análisis exploratorios de datos para aprendizaje automático
+- Aplicar transformaciones a variables categóricas
+- Entrenar modelos de clasificación a partir de datos
+- Realizar predicciones de nuevos datos con modelos de clasificación
+- Almacenar modelos de transformación de datos y de aprendizaje automático en archivos pickle
 
-- Fundamentos de Python: variables, tipos de datos, estructuras de control
-- Listas, tuplas y diccionarios.
-- Funciones y comprensión de listas
-- Módulos y librerías básicas (como `math`, `random`, etc.)
-- Manipulación de archivos
-- Ejercicios prácticos con soluciones comentadas
-- Notas personales y tips útiles 💡
+## 📁 Contenido
 
-## 🎯 Objetivo
+- Análisis exploratorio de datos (EDA)
+- Transformación de datos
+- Ajuste de modelos
+- Selección de modelos
+  
+## 🛠️ Herramientas utilizadas
 
-Mi objetivo con este cuaderno es reforzar mis conocimientos en programación y construir una base sólida para avanzar hacia proyectos de análisis de datos y ciencia de datos.
+- Python
+- Pandas
+- Plotly.express
+- Sklearn
+- Scikit-learn
 
-## 🛠️ Cómo usar este cuaderno
-
-Puedes hacer una copia del cuaderno en tu propio Google Drive y ejecutar las celdas una por una para ver los resultados. Si estás empezando como yo, te invito a:
-
-1. Leer los comentarios en cada celda
-2. Probar modificando el código para entender mejor su funcionamiento
-3. Escribir tus propias funciones y ejemplos
-
-## 🤝 Contribuciones
-
-Aunque este cuaderno es personal, si ves algo que se puede mejorar o quieres compartir algún tip, ¡bienvenid@! ✨
-
-## 📌 Notas adicionales
-
-- El cuaderno está en constante evolución a medida que avanzo en mi aprendizaje.
-- Algunas secciones pueden contener errores o correcciones en proceso (¡así se aprende!).
