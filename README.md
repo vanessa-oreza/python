@@ -1,27 +1,25 @@
-# 📓 Regresion Lineal: Clasificación de datos con Machine Learning
+# 📓 Clasificación: validación de modelos y métricas de evaluación
 
-Este repositorio contiene el desarrollo del entrenamiento **"Aprendiendo a clasificar datos con Machine Learning"** del curso de **Data Science** impartido por **Alura Latam**.
+Este repositorio contiene el desarrollo del entrenamiento **"validación de modelos y métricas de evaluación"** del curso de **Data Science** impartido por **Alura Latam**.
 
 ## 🧠 Objetivo del curso
 
-- Realizar análisis exploratorios de datos para aprendizaje automático
-- Aplicar transformaciones a variables categóricas
-- Entrenar modelos de clasificación a partir de datos
-- Realizar predicciones de nuevos datos con modelos de clasificación
-- Almacenar modelos de transformación de datos y de aprendizaje automático en archivos pickle
+- Validar modelos de machine learning con el método hold-out y validación cruzada
+- Evaluar modelos de machine learning a partir de métricas de desempeño
+- Identificar cuáles son las métricas más apropiadas para cada tipo de problema
+- Realizar el balanceo de datos utilizando oversampling y undersampling
+- Aplicar un pipeline para validar modelos de forma correcta
 
 ## 📁 Contenido
 
-- Análisis exploratorio de datos (EDA)
-- Transformación de datos
-- Ajuste de modelos
-- Selección de modelos
+- Clasificación de datos
+- Métricas de evaluación
+- Validación cruzada
+- Balanceo de datos
   
 ## 🛠️ Herramientas utilizadas
 
 - Python
 - Pandas
-- Plotly.express
-- Sklearn
-- Scikit-learn
+- ...
 
