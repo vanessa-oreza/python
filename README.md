@@ -1,14 +1,15 @@
-# 📓 Clasificación: validación de modelos y métricas de evaluación
+# 🛬 IA aumentada: previsión de atrasos de vuelos
+Este repositorio contiene el desarrollo del entrenamiento **"IA aumentada: previsión de atrasos de vuelos"** del curso de **Data Science** impartido por **Alura Latam**.
 
-Este repositorio contiene el desarrollo del entrenamiento **"validación de modelos y métricas de evaluación"** del curso de **Data Science** impartido por **Alura Latam**.
+## 🎯 Objetivo del curso
 
-## 🧠 Objetivo del curso
-
-- Validar modelos de machine learning con el método hold-out y validación cruzada
-- Evaluar modelos de machine learning a partir de métricas de desempeño
-- Identificar cuáles son las métricas más apropiadas para cada tipo de problema
-- Realizar el balanceo de datos utilizando oversampling y undersampling
-- Aplicar un pipeline para validar modelos de forma correcta
+-Aprender a aplicar técnicas de visualización de datos para comunicar ideas y hallazgos
+-Adquirir habilidades en la aplicación de métodos de codificación para transformar variables categóricas
+-Implementar un modelo de regresión DummyRegressor
+-Implementar un modelo de regresión RandomForestRegressor
+-Aprender a analizar los resultados de los modelos de regresión mediante métricas y gráficos
+-Identificar y seleccione las características más importantes para el modelo de machine learning
+-Explorar la optimización de hiperparámetros para mejorar el rendimiento de su modelo de machine learning
 
 ## 📁 Contenido
 
@@ -17,9 +18,11 @@ Este repositorio contiene el desarrollo del entrenamiento **"validación de mode
 - Validación cruzada
 - Balanceo de datos
   
-## 🛠️ Herramientas utilizadas
+## 🛠️ Bibliotecas utilizadas
 
-- Python
 - Pandas
-- ...
+- NumPy
+- Scikit-learn
+- Seaborn
+- Yellowbrick
 
