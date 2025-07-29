@@ -25,4 +25,5 @@ Este repositorio contiene el desarrollo del entrenamiento **"IA aumentada: previ
 - Scikit-learn
 - Seaborn
 - Yellowbrick
+- 
 
